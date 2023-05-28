@@ -6,4 +6,4 @@ In this Power BI case study, I’ll explore a real-world job posting dataset for
 
 Jobs Page:
 
-![JobsPage]()
+![DahBoard](https://raw.githubusercontent.com/natsutaizai9/Interactive-Sales-Dashboard/main/SD/Dash.png)
